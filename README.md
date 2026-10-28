@@ -49,7 +49,7 @@ An interactive Power BI dashboard that explores who leaves a telecom service, wh
 
 ## Demo
 
-[Watch the walkthrough on LinkedIn](PUT-YOUR-LINKEDIN-POST-LINK-HERE)
+[Watch the walkthrough on LinkedIn](https://lnkd.in/p/eAzSHYJc)
 
 ## Author
 
